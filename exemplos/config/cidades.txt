@@ -1,0 +1,13 @@
+A=Criciúma
+B=Içara
+C=Araranguá
+D=Sombrio
+E=Forquilhinha
+F=Nova Veneza
+G=Siderópolis
+H=Urussanga
+CR=Criciúma
+IC=Içara
+TB=Tubarão
+LG=Laguna
+FL=Florianópolis
